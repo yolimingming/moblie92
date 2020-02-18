@@ -19,9 +19,8 @@ export default {
 
 <style lang="less" scoped>
 #pear{
-
   width: 375px;
-  height: 100px;
-  background-color: #ff3040;
+  height:100px;
+  background-color: pink;
 }
 </style>

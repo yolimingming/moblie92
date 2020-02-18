@@ -14,7 +14,6 @@ export default {
   name: 'user-profile',
   methods: {
     save () {
-      // 提示信息
       this.$toast.success('保存成功')
     }
   }
